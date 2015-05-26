@@ -1,0 +1,82 @@
+{
+  "uuid": "bcfb9058-4ff8-4c65-aca8-a48593e2038a",
+  "shortName": "Upright",
+  "longName": "Upright",
+  "companyName": "Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_SQUARE",
+        "file": "images/square.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T0",
+        "file": "images/t0.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T1",
+        "file": "images/t1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T1_2",
+        "file": "images/t1_2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T2",
+        "file": "images/t2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T3",
+        "file": "images/t3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T4",
+        "file": "images/t4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T5",
+        "file": "images/t5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T6",
+        "file": "images/t6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T7",
+        "file": "images/t7.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T8",
+        "file": "images/t8.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_T9",
+        "file": "images/t9.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite"
+  ],
+  "sdkVersion": "3"
+}
